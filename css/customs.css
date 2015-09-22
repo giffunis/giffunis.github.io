@@ -1,0 +1,7 @@
+#plane{
+  box-shadow:4px 6px 10px #222;
+  border-radius: 20px 20px 20px 20px;
+  border: 6px solid #000000;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
