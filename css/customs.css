@@ -12,3 +12,6 @@
   border: 6px solid #000000;
 
 }
+.banner{
+  background: url(../img/gris-banner.jpg) repeat center center;
+}
